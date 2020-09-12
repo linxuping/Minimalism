@@ -15,8 +15,8 @@ defaults:
       image: true
 
 title: Minimalism
-name: minimalism
-description: Minimalism is a jekyll theme for minimalist
+name: XP
+description: 山，快马加鞭未下鞍。惊回首，离天三尺三。
 
 github: https://github.com/showzeng/Minimalism
 rss: true
