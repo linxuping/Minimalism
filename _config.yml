@@ -68,8 +68,8 @@ gitment_owner: linxuping
 # GitHub pages 仓库名，如：showzeng.github.io
 gitment_repo: linxuping.github.io
 # gitment 提供的对应 id 和 secret
-gitment_client_id: 76bb22ffd69cb9a2dc11
-gitment_secret: 1bc48766be80fbcb2802679ab796d76ac4fafe44
+gitment_client_id: 64424937086dd64a0f78
+gitment_secret: 36823f93a50a14508d3b115ddb3e7973a5c9081a
 # --- 评论设置 ---
 
 
